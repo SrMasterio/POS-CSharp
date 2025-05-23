@@ -1,0 +1,12 @@
+C:\Users\Mario\source\repos\POSFull-master\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Mario\source\repos\POSFull-master\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Mario\source\repos\POSFull-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Mario\source\repos\POSFull-master\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Mario\source\repos\POSFull-master\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Mario\source\repos\POSFull-master\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\Mario\Desktop\9\POSFull\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\Mario\Desktop\9\POSFull\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\Mario\Desktop\9\POSFull\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\Mario\Desktop\9\POSFull\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\Mario\Desktop\9\POSFull\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\Mario\Desktop\9\POSFull\CapaEntidad\obj\Debug\CapaEntidad.pdb
